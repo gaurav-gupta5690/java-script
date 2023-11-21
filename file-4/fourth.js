@@ -46,6 +46,9 @@ let h = Symbol("Hello!");
 
 //2) Non-Primitive Data Types
 
+//Array
+
+
 //Objects----> collections of values
 
 const student = {
