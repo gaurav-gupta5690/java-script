@@ -9,21 +9,21 @@
 
 
 
-//1)
+//1)    var
 var firstName = "Gaurav";
 var lastName = "Gupta";
 
 console.log(firstName +" "+ lastName)
 
 
-//2)
+//2)   let
 let firstNaMe = "Aditya";
 let lastNaMe = "rajput";
 
 console.log(firstNaMe +" "+ lastNaMe)
 
 
-//3)
+//3)   const
 const fiRstName = "Aman";
 const lasTName = "tiwari";
 
