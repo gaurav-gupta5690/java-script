@@ -17,7 +17,9 @@ for (let key in student){
 // Output
 
 
-// key= name value Gaurav Gupta
-// key= age value 21
-// key= cgpa value 8.5
-// key= ispass value true
+// key= name         value Gaurav Gupta
+// key= age          value 21
+// key= cgpa         value 8.5
+// key= ispass       value true
+
+
