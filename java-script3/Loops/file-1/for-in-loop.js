@@ -3,12 +3,12 @@
 
 // example
 
-let student = {
-    name: "Gaurav Gupta",
-    age: 21,
-    cgpa: 8.5,
-    ispass: true,
-}
+// let student = {
+//     name: "Gaurav Gupta",
+//     age: 21,
+//     cgpa: 8.5,
+//     ispass: true,
+// }
 
 for (let key in student){
     console.log("key=", key, "value", student[key]);

@@ -24,5 +24,11 @@
 
 
 
-let str = "Gaurav Gupta"
-console.log(str[7])
+//     scape characters
+
+// console.log("Gaurav\nGupta")
+
+
+//Output---->    Gaurav
+//               Gupta
+
